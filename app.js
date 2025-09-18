@@ -37,13 +37,6 @@ function editTodo(index){
 
 
 
-// String Methods
-// toLowerCase
-// toUpperCase
-// slice
-// split
-// join
-// replace
-// replaceAll
+
 
 
